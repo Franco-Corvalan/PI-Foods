@@ -26,7 +26,7 @@ function Foods() {
   return (
     
     <div className="max-w-[1640px] m-auto px-4 py-12">
-      <h1 className="text-orange-600 font-bold text-4xl text-center">Top Rater Menu Items</h1>
+      <h1 className="text-orange-600 font-bold text-4xl text-center">Menu</h1>
 
       {/* Filters */}
       <div className="flex flex-col lg:flex-row justify-between">
